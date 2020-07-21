@@ -12,5 +12,7 @@ public class App {
         System.out.println("Please enter your name");
         s = scanner.nextLine();
         System.out.println("Hello, " + s);
+
+        System.out.println("Hmmmm");
     }
 }
